@@ -33,6 +33,6 @@ I have completed Level 1.  Level 2 is coming.
 
 ### Dataset
 
-* (UFO-level1/js/data.js)
+* (static/js/data.js)
 
 
